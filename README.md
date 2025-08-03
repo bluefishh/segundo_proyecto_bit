@@ -1,4 +1,4 @@
-# Pasos para ejecytar el proyecto
+# Pasos para ejecutar el proyecto
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/bluefishh/segundo_proyecto_bit.git
@@ -14,10 +14,10 @@
    ```bash
    node app.js
    ```
-o con:
-    ```bash
-    node run start
-    ```
+   o con:
+   ```bash
+   npm run start
+   ```
 
 4. Abrir el navegador y acceder a:
    ```
